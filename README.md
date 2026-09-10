@@ -29,7 +29,31 @@ It excludes pension contributions, benefits, equipment and the cost of the space
 
 Free, no sign-up, runs in your browser. Your figures are never sent anywhere.
 
-## Related calculators
+## Worked examples at real salaries
+
+Full deduction breakdowns, computed on 2026/27 rates:
+
+| Salary | Take-home a year | Take-home a month |
+|---|---:|---:|
+| [£40,000 after tax](https://truetakehome.co.uk/salary/40000/) | £32,319.60 | £2,693.30 |
+| [£60,000 after tax](https://truetakehome.co.uk/salary/60000/) | £45,357.40 | £3,779.78 |
+| [£80,000 after tax](https://truetakehome.co.uk/salary/80000/) | £56,957.40 | £4,746.45 |
+| [£100,000 after tax](https://truetakehome.co.uk/salary/100000/) | £68,557.40 | £5,713.12 |
+
+## Related tools
+
+- [National Insurance calculator](https://truetakehome.co.uk/national-insurance-calculator/) — the employee side of the same contribution
+- [Contract vs permanent calculator](https://truetakehome.co.uk/contract-vs-permanent-calculator/) — compare the two ways of filling a role
+- [Umbrella company calculator](https://truetakehome.co.uk/umbrella-company-calculator/) — where employer NI lands in a contract rate
+
+## Check the figures yourself
+
+- [UK tax rates and thresholds 2026/27](https://truetakehome.co.uk/tax-rates/2026-27/) — every band and threshold on one page
+- [Take-home pay statistics](https://truetakehome.co.uk/statistics/) — effective and marginal rates from £20,000 to £200,000, free to cite
+- [How the calculator works](https://truetakehome.co.uk/about/) — the order of calculation and the source for every rate
+- [rates.json](https://truetakehome.co.uk/rates.json) — the same figures as machine-readable JSON, no key required
+
+## Related calculators on GitHub
 
 - [Self-Employed Tax Calculator UK](https://github.com/HadiDevLabx/self-employed-tax-calculator-uk)
 - [Dividend Tax Calculator UK](https://github.com/HadiDevLabx/dividend-tax-calculator-uk)
